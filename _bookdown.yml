@@ -1,1 +1,4 @@
+book_filename: "daandejongen.github.io"
+new_session: true
+before_chapter_script: _common.R
 output_dir: docs
