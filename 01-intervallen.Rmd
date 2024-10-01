@@ -8,7 +8,7 @@ permalink: "/intervallen"
 
 Voorkennis:
 
-Definitie:
+[!NOTE]
+Definitie
 
 Inleiding:
-
