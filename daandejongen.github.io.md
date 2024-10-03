@@ -1,3 +1,9 @@
+# Voorwoord
+
+Hoi allemaal.
+
+<!--chapter:end:index.Rmd-->
+
 ---
 title: "Intervallen"
 layout: page
@@ -74,4 +80,7 @@ Ik heb hier de interpretaties tussen aanhalingstekens gezet om twee redenen:
 ## Meer intervallen
 
 De hele toonsafstand is natuurlijk te verdelen in twee 
+
+
+<!--chapter:end:01-intervallen.Rmd-->
 
